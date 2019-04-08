@@ -1,4 +1,4 @@
-#人脸活体检测
+#人脸对比
 
 ----------
 
@@ -6,28 +6,31 @@
 
 ### 1.功能描述
 
-人脸活体检测API主要用于针对用户上传图像，返回该图像中的人脸是否为真人
+人脸1比1比对API主要用于对传入的两张图的人脸进行比较，得到两张脸的相似度。。
 
 ### 2. 接口使用 
-使用接口前，需要先完成API的下单购买，然后可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)  
+平台为每个API提供试用体验服务，您在AI市场选择“免费试用”规格下单后，即可开始体验业内领先的人工智能API服务。
+免费试用服务具有调用量、QPS限制，如需更高性能的API服务，可以提交咨询工单，联系京东AI扩容购买。
+
+在获得使用权限后，您可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)  
 
 ### 3.图片要求
 
 > 1. 图片格式：bmp, jpg, jpeg, png, jfif
 > 2. 图片像素尺寸：最小 48\*48 像素，最大 4096\*4096 像素
-> 3. 图片文件大小：小于2mb
+> 3. 图片文件大小：小于2MB
 
 ## 二、请求说明
 
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/face_AntiSpoof_chanchuangyun
+https://aiapi.jd.com/jdai/face_compare_chanchuangyun
 ```
 
 ### 2. 请求方式：
   
-https `post` aiapi.jd.com/jdai/face_AntiSpoof_chanchuangyun
+https `post` aiapi.jd.com/jdai/face_compare_chanchuangyun
 
 ### 3. 请求参数  
  
@@ -75,10 +78,17 @@ https `post` aiapi.jd.com/jdai/face_AntiSpoof_chanchuangyun
       <th>描述</th>
    </tr>
    <tr>
-      <td>imageBase64</td>
+      <td>imageBase64_1</td>
       <td>string</td>
       <td>是</td>
-      <td>图像Base64编码值，由于过长，不给出示例</td>
+      <td>第一张图像Base64编码值，由于过长，不给出示例</td>
+      <td>图片Base64编码</td>
+   </tr>
+   <tr>
+      <td>imageBase64_2</td>
+      <td>string</td>
+      <td>是</td>
+      <td>第二张图像Base64编码值，由于过长，不给出示例</td>
       <td>图片Base64编码</td>
    </tr>
 </table>
@@ -162,8 +172,9 @@ https `post` aiapi.jd.com/jdai/face_AntiSpoof_chanchuangyun
    <tr>
       <td>score</td>
       <td>float</td>
-      <td>0.009</td>
-      <td>假体分数，严格的阈值为0.2，大于0.2为假体，正常的阈值为0.38，大于0.38为假体</td>
+      <td>0.65</td>
+      <td>人脸相似度：万分之一误识率下阈值: 0.49,
+    十万分之一误识率下阈值: 0.54, 百万分之一误识率下阈值：0.58</td>
    </tr>
 </table>
 
@@ -176,7 +187,7 @@ https `post` aiapi.jd.com/jdai/face_AntiSpoof_chanchuangyun
     "remain": 97,
     "msg": "查询成功",
     "result": {
-      "score":0.009237812383223,
+      "score":0.6554144024848938,
       "status": 0, 
       "message": "success",
       "request_id": "5893465d31284468a8014de6ee430f8e"

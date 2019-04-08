@@ -8,27 +8,34 @@
 <table>
    <tr>
       <th>业务错误码（status）</th>
-      <th>对应message说明</th>
-      <th>说明</th>
+      <th>说明（message）</th>
    </tr>
    <tr>
       <td>12002</td>
-      <td>"missing param"</td>
       <td>参数缺失</td>
    </tr>
    <tr>
       <td>12003</td>
-      <td>"image base64 is invalid"</td>
       <td>解析参数错误</td>
    </tr>
-	 <tr>
+   <tr>
+      <td>13005</td>
+      <td>图像超过尺寸</td>
+   </tr>
+   <tr>
       <td>13111</td>
-      <td>""image quality is bad""</td>
-      <td>图像尺寸或者质量不符合标准，当图像尺寸超过4096 * 4096或者小于48 * 48时会报该错误</td>
+      <td>有图片不符合大于48 * 48，小于4096 * 4096的要求</td>
+   </tr>
+   <tr>
+      <td>13112</td>
+      <td>图像中的人脸姿态过大，不符合比对人脸的标准</td>
    </tr>
    <tr>
       <td>13303</td>
-      <td>"time out"</td>
-      <td>超时错误，当服务端请求负载过多会报该错误</td>
+      <td>处理超时</td>
+   </tr>
+   <tr>
+      <td>13134</td>
+      <td>未检测到脸</td>
    </tr>
 </table>
