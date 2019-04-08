@@ -20,10 +20,10 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/ocr_idcard_chanchuangyun
+https://aiapi.jd.com/jdai/ocr_idcard
 ```
 ### 2. 请求方式：  
-https  `post`aiapi.jd.com/jdai/ocr_idcard_chanchuangyun
+https  `post`aiapi.jd.com/jdai/ocr_idcard
 ### 3. 请求参数    
 #### （1）query请求参数  
 公共请求参数  
