@@ -18,13 +18,13 @@ HTTPRequestMethod即HTTP协议请求方式，如POST、GET等，使用全大写�
 
 CanonicalURI即URI编码后的请求路径。
 
-CanonicalQueryString为请求查询字符串。要构建规范查询字符串，首先按字符代码对***参数名按升序***进行排序，如果重复名称的参数再***按值升序***进行排序。然后对每个***参数名称和值分别进行URI编码***（请不要重复编码）。接着通过从排序列表中的第一个参数名称开始构建规范查询字符串。***对于每个参数，附加URI编码的参数名称，后跟等号字符（=），后跟URI编码的参数值***对没有值的参数使用空字符串。在每个参数值之后附加&符号，除了列表中的最后一个值。
+CanonicalQueryString为请求查询字符串。要构建规范查询字符串，首先按字符代码对**参数名按升序**进行排序，如果重复名称的参数再**按值升序**进行排序。然后对每个**参数名称和值分别进行URI编码**（请不要重复编码）。接着通过从排序列表中的第一个参数名称开始构建规范查询字符串。**对于每个参数，附加URI编码的参数名称，后跟等号字符（=），后跟URI编码的参数值**对没有值的参数使用空字符串。在每个参数值之后附加&符号，除了列表中的最后一个值。
 
-要创建规范HTTP请求头列表，请将所有HTTP头名称转换为***小写***（请保证请求头名称不能包含空格），并***删除请求头value中前导空格和尾随空格。*** 通过用字符代码***升序***对请求头进行排序，然后遍历请求头名称来构建规范HTTP请求头列表。注意**：x-jdcloud-date**（遵循ISO8601标准，使用UTC时间，格式为YYYYMMDDTHHmmssZ）, ***x-jdcloud-nonce***必须在请求中包含并且参与签名；如果有***x-jdcloud-security-token***头，此项也必须参与签名。
+要创建规范HTTP请求头列表，请将所有HTTP头名称转换为**小写**（请保证请求头名称不能包含空格），并**删除请求头value中前导空格和尾随空格。** 通过用字符代码**升序**对请求头进行排序，然后遍历请求头名称来构建规范HTTP请求头列表。注意**：x-jdcloud-date**（遵循ISO8601标准，使用UTC时间，格式为YYYYMMDDTHHmmssZ）, **x-jdcloud-nonce**必须在请求中包含并且参与签名；如果有**x-jdcloud-security-token**头，此项也必须参与签名。
 
 CanonicalHeaders表示需要参与签名的请求头及值，使用:分隔名称和值，并添加换行符。 SignedHeaders用于告知京东云，请求头中的哪些是签名过程的一部分。
 
-最后，需要把请求体中的payload做SHA256哈希后，表示为***小写十六进制字符串***。如果有效负载为空，则使用空字符串作为Hash函数的输入。
+最后，需要把请求体中的payload做SHA256哈希后，表示为**小写十六进制字符串**。如果有效负载为空，则使用空字符串作为Hash函数的输入。
 
 POST示例请求
 ```
@@ -53,7 +53,7 @@ content-type;host;x-jdcloud-date;x-jdcloud-nonce
 eadd64d9bd63436404495b9a2cd0a5b4c59b01332a88d81da27815824b3c4280
 ```
 
-## ***签名步骤2：生成待签名字符串***
+## **签名步骤2：生成待签名字符串**
 要创建字符串进行签名，请连接规则请求的算法，日期和时间，凭据范围和摘要，如以下伪代码所示：
 ```$xslt
 StringToSign =
@@ -66,11 +66,11 @@ Lowercase(HexEncode(Hash(CanonicalRequest)))
 
 Algorithm固定为JDCLOUD2-HMAC-SHA256是算法。
 
-RequestDateTime与HTTP请求头x-jdcloud-date中的***格式和值必须完全一致。***
+RequestDateTime与HTTP请求头x-jdcloud-date中的**格式和值必须完全一致。**
 
 CredentialScope格式为”{时间}/{地域编码}/{产品线}/jdcloud2_request”，例如20180130/cn-north-1/vpc/jdcloud2_request
 
-Lowercase(HexEncode(CanonicalRequest))是步骤1生成的标准请求进行***SHA256哈希***后，在表示为***小写十六进制字符串。***
+Lowercase(HexEncode(CanonicalRequest))是步骤1生成的标准请求进行**SHA256哈希**后，在表示为**小写十六进制字符串。**
 
 例如：
 ```$xslt
@@ -79,7 +79,7 @@ JDCLOUD2-HMAC-SHA256
 20180404/cn-north-1/monitor/jdcloud2_request
 5d7d08a5b792a63ad0bd820cff95ff41c6dbcf4bd7bae9e371be0ff891740ee7
 ```
-## ***签名步骤3：计算签名***
+## **签名步骤3：计算签名**
 计算的伪代码
 ```$xslt
 kSecret = 京东云Access Key Secret
@@ -100,7 +100,7 @@ signResult = Lowercase(HexEncode(HMAC(kSigning, StringToSign)))
 9b2026198d3acbf99da395e23a994ed369a0d70f5b4a5d7567dd0caf3009656d
 ```
 
-## ***签名步骤4：向请求中添加签名信息***
+## **签名步骤4：向请求中添加签名信息**
 计算签名后，需要将签名的结果作为Authorization请求头将其添加到请求中。
 
 Authorization的格式为 JDCLOUD2-HMAC-SHA256 Credential={Access Key}/{Date}/{Region}/{Service}/jdcloud2_request, SignedHeaders={SignedHeaders}, Signature={signResult}
@@ -110,7 +110,7 @@ Authorization的格式为 JDCLOUD2-HMAC-SHA256 Credential={Access Key}/{Date}/{R
 curl -X GET -H "x-jdcloud-date:20180404T061302Z" -H "x-jdcloud-nonce:ed558a3b-9808-4edb-8597-187bda63a4f2" -H "Authorization:JDCLOUD2-HMAC-SHA256 Credential=C61249XXXXXXXXXXXXXXXXXX/20180404/cn-north-1/monitor/jdcloud2_request, SignedHeaders=content-type;host;x-jdcloud-date;x-jdcloud-nonce, Signature=9b2026198d3acbf99da395e23a994ed369a0d70f5b4a5d7567dd0caf3009656d" -H "Content-Type:application/json" "http://vm.jdcloud-api.com/v1/regions/cn-north-1/metrics/cpu_util/metricData?serviceCode=vm&startTime=2018-04-04T06:01:46Z"
 ```
 
-### ***签名步骤示例***
+### **签名步骤示例**
 假设用户签名的输入信息为：
 
 ```$xslt
