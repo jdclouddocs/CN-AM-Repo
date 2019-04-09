@@ -64,3 +64,4 @@ API调用者可在访问密钥详情页找到访问密钥ID，并将该ID告诉A
 3.给分组绑定签名
 
 ![签名3.png](../../../../image/AI-and-Machine-Learning/lexer/签名3.png)
+
