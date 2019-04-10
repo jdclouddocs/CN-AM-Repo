@@ -6,31 +6,58 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Operation-Guide/Authentication.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Operation-Guide/Signature-Algorithm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Operation-Guide/Use-Sdk.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/API-Reference/API-Reference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/API-Reference/Error-Code.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/Authentication.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/Signature-Algorithm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/Use-Sdk.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/API-Reference/API-Reference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/API-Reference/Error-Code.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Operation-Guide/Authentication.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Operation-Guide/Signature-Algorithm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Operation-Guide/Use-Sdk.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Use-Sdk.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Use-Sdk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Getting-Started/add-into-channel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Getting-Started/call-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Getting-Started/deployment.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Getting-Started/development-of-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Getting-Started/instal-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Getting-Started/upload-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Application-Scenarios.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Application-Scenarios.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Basic-Infrastructure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Benefits.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Benefits.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Core-Concepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Features.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Features.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Product-Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Product-Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Restrictions.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Restrictions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/public-beta-introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/public-beta-introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Operation-Guide/cluster-management.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Operation-Guide/general-layout.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Operation-Guide/hyperledger.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Pricing/Billing-Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Pricing/Billing-Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Pricing/Purchase-Process.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Pricing/Purchase-Process.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Pricing/Purchase-Process.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Pricing/Purchase-Process.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Operation-Guide/Use-Sdk.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Operation-Guide/Use-Sdk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Getting-Started/add-into-channel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Getting-Started/call-chain-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Getting-Started/deployment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Getting-Started/development-of-chain-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Getting-Started/instal-chain-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Getting-Started/upload-chain-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Application-Scenarios.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Application-Scenarios.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Basic-Infrastructure.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Benefits.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Benefits.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Core-Concepts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Features.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Features.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Product-Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Product-Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Restrictions.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Restrictions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/public-beta-introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/public-beta-introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/cluster-management.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/general-layout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/hyperledger.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Pricing/Billing-Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Pricing/Billing-Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Pricing/Purchase-Process.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Pricing/Purchase-Process.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Pricing/Purchase-Process.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Pricing/Purchase-Process.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Getting-Started/add-into-channel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Getting-Started/call-chain-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Getting-Started/deployment.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Getting-Started/development-of-chain-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Getting-Started/instal-chain-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Getting-Started/upload-chain-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Application-Scenarios.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Application-Scenarios.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Basic-Infrastructure.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Benefits.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Benefits.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Core-Concepts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Features.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Features.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Product-Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Product-Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Restrictions.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Restrictions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/public-beta-introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/public-beta-introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Operation-Guide/cluster-management.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Operation-Guide/general-layout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Operation-Guide/hyperledger.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Pricing/Billing-Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Pricing/Billing-Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Pricing/Purchase-Process.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Pricing/Purchase-Process.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,47 +75,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Benefits.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Features.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Features.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="3" selection-start-line="2" selection-end-line="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Product-Overview.md">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Product-Overview.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+                <caret column="5" selection-start-column="5" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -96,23 +87,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/public-beta-introduction.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="5" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Operation-Guide/Use-Sdk.md">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Features.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="30">
-                <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+                <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Benefits.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Application-Scenarios.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -120,11 +123,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Use-Sdk.md">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/API-Reference/Error-Code.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/public-beta-introduction.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="285">
+                <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -132,19 +145,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Operation-Guide/Use-Sdk.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="540">
-                <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Restrictions.md">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Restrictions.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="60">
@@ -156,12 +157,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/public-beta-introduction.md">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/Use-Sdk.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="20" />
-              </first_editor>
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/Signature-Algorithm.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/Authentication.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -173,6 +192,7 @@
     <findStrings>
       <find>鉴权</find>
       <find>本中词与词之间的依存关系</find>
+      <find>词法</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -181,29 +201,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/Introduction/Product-Overview.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/Introduction/Features.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/TOC.yml" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/Introduction/Restrictions.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/Introduction/Application-Scenarios.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/Pricing/Billing-Overview.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/Pricing/Purchase-Process.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/Introduction/Benefits.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/Operation-Guide/Authentication.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/API-Reference/Error-Code.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/Introduction/public-beta-introduction.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/API-Reference/API-Reference.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/Application-Scenarios.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/Benefits.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Features.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/Product-Overview.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/public-beta-introduction.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/Restrictions.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/API-Reference/Error-Code.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/API-Reference/API-Reference.md" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Authentication.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Pricing/Purchase-Process.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Application-Scenarios.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Benefits.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Core-Concepts.md" />
@@ -213,7 +216,6 @@
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/public-beta-introduction.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Restrictions.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/API-Reference/API-Reference.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/API-Reference/Error-Code.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Application-Scenarios.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Basic-Infrastructure.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Benefits.md" />
@@ -225,6 +227,31 @@
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Operation-Guide/Use-Sdk.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Use-Sdk.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Operation-Guide/Use-Sdk.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/API-Reference/API-Reference.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/API-Reference/Error-Code.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/API-Reference/Error-Code.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/API-Reference/Error-Code.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Application-Scenarios.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Basic-Infrastructure.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Benefits.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Features.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Product-Overview.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/public-beta-introduction.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Restrictions.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/API-Reference/API-Reference.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/API-Reference/Error-Code.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Pricing/Purchase-Process.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Pricing/Purchase-Process.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Pricing/Purchase-Process.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Pricing/Purchase-Process.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Application-Scenarios.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Basic-Infrastructure.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Benefits.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Features.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Product-Overview.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/public-beta-introduction.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Restrictions.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Pricing/Purchase-Process.md" />
       </list>
     </option>
   </component>
@@ -262,7 +289,123 @@
               <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
               <item name="documentation" type="462c0819:PsiDirectoryNode" />
               <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Automatic-Speech-Recognition" type="462c0819:PsiDirectoryNode" />
+              <item name="lexer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="lexer" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Sentiment-Classifier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Short-Text-Similarity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Short-Text-Similarity" type="462c0819:PsiDirectoryNode" />
+              <item name="API-Reference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Short-Text-Similarity" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Short-Text-Similarity" type="462c0819:PsiDirectoryNode" />
+              <item name="Operation-Guide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Short-Text-Similarity" type="462c0819:PsiDirectoryNode" />
+              <item name="Pricing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Syntactic-Parsing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Syntactic-Parsing" type="462c0819:PsiDirectoryNode" />
+              <item name="API-Reference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Syntactic-Parsing" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Syntactic-Parsing" type="462c0819:PsiDirectoryNode" />
+              <item name="Pricing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Text-Categorization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Text-Categorization" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Text-Categorization" type="462c0819:PsiDirectoryNode" />
+              <item name="Operation-Guide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CN-AM-Repo" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="AI-and-Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Text-Categorization" type="462c0819:PsiDirectoryNode" />
+              <item name="Pricing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -278,7 +421,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554692932154" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -291,11 +434,11 @@
       <recent name="E:\workspace\aaa\CN-AM-Repo\image\AI-and-Machine-Learning\Face-Compare" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity" />
+      <recent name="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization" />
       <recent name="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier" />
       <recent name="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing" />
       <recent name="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition" />
-      <recent name="$PROJECT_DIR$/image/AI-and-Machine-Learning/share-picture" />
-      <recent name="E:\workspace\aaa\CN-AM-Repo\image\AI-and-Machine-Learning\Face-Compare" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -321,7 +464,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554276712189</updated>
       <workItem from="1554276713819" duration="13648000" />
-      <workItem from="1554864007919" duration="15212000" />
+      <workItem from="1554864007919" duration="18081000" />
     </task>
     <task id="LOCAL-00001" summary="语音识别markdown">
       <created>1554875704295</created>
@@ -358,11 +501,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554887015774</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="情感分析">
+      <created>1554892562508</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554892562508</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28860000" />
+    <option name="totallyTimeSpent" value="31729000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -381,7 +531,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.50076103" side_tool="true" weight="0.2881563" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49923897" visible="true" weight="0.26068377" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49923897" visible="true" weight="0.2014652" />
       <window_info id="Structure" order="6" sideWeight="0.50076103" side_tool="true" weight="0.2881563" />
       <window_info anchor="bottom" id="FindBugs-IDEA" weight="0.32959184" />
       <window_info anchor="bottom" id="Duplication Code Results" weight="0.32959184" />
@@ -451,126 +601,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="语音识别markdown" />
     <MESSAGE value="共享文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="共享文件" />
+    <MESSAGE value="情感分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="情感分析" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Authentication.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="514">
-            <caret line="65" column="66" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="66" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Signature-Algorithm.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1494" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Pricing/Billing-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/API-Reference/Error-Code.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Pricing/Purchase-Process.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Getting-Started/call-chain-code.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Getting-Started/add-into-channel.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/API-Reference/API-Reference.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Application-Scenarios.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Basic-Infrastructure.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Core-Concepts.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Snap-Shop/TOC.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/Features.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/Product-Overview.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" selection-start-column="2" selection-end-column="6" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -578,9 +616,7 @@
     <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/public-beta-introduction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="24" lean-forward="true" selection-end-line="16" selection-end-column="37" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -588,223 +624,17 @@
     <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/Restrictions.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/NeuHive/Introduction/Application-Scenarios.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Operation-Guide/cluster-management.md">
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/API-Reference/API-Reference.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="37" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="37" />
+          <first_editor relative-caret-position="12195">
+            <caret line="813" selection-start-line="813" selection-end-line="813" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Operation-Guide/general-layout.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Operation-Guide/hyperledger.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Operation-Guide/Authentication.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="747">
-            <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Operation-Guide/Signature-Algorithm.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Operation-Guide/Use-Sdk.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="477">
-            <caret line="33" column="66" lean-forward="true" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="74" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/API-Reference/API-Reference.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="837">
-            <caret line="238" selection-start-line="238" selection-end-line="238" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/API-Reference/Error-Code.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Application-Scenarios.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Features.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" selection-start-column="6" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/public-beta-introduction.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Restrictions.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" selection-start-column="6" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Operation-Guide/Authentication.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-168" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Operation-Guide/Signature-Algorithm.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Pricing/Billing-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Pricing/Purchase-Process.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/Application-Scenarios.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Benefits.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Basic-Infrastructure.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Benefits.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/Benefits.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Core-Concepts.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -824,16 +654,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="135">
             <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Features.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="3" selection-start-line="2" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -859,17 +679,165 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/public-beta-introduction.md">
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/public-beta-introduction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="20" />
+          <first_editor relative-caret-position="90">
+            <caret line="6" selection-start-line="6" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Restrictions.md">
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Product-Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Features.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="3" selection-start-line="2" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Benefits.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Application-Scenarios.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Restrictions.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/public-beta-introduction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/API-Reference/API-Reference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/API-Reference/Error-Code.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/API-Reference/Error-Code.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/API-Reference/API-Reference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1410">
+            <caret line="287" selection-start-line="287" selection-end-line="287" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/API-Reference/Error-Code.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Application-Scenarios.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" selection-start-line="13" selection-end-line="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Benefits.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Features.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Product-Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="5" selection-start-column="5" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/public-beta-introduction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Restrictions.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
@@ -879,42 +847,226 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/public-beta-introduction.md">
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Pricing/Purchase-Process.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="5" />
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Operation-Guide/Use-Sdk.md">
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Pricing/Billing-Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Operation-Guide/Use-Sdk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-108" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Operation-Guide/Signature-Algorithm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1646" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Operation-Guide/Authentication.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-168" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Pricing/Purchase-Process.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Pricing/Purchase-Process.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Pricing/Purchase-Process.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Basic-Infrastructure.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Core-Concepts.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Operation-Guide/Use-Sdk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/public-beta-introduction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="5" lean-forward="true" selection-end-line="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/cluster-management.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Pricing/Purchase-Process.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Pricing/Billing-Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/Use-Sdk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/Signature-Algorithm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/Authentication.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Restrictions.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/public-beta-introduction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Product-Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="5" selection-start-column="5" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Features.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
-            <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Operation-Guide/Use-Sdk.md">
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Benefits.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Use-Sdk.md">
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Application-Scenarios.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
-            <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/API-Reference/Error-Code.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
