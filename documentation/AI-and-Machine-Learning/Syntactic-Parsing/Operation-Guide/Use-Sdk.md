@@ -1,6 +1,6 @@
 # **sdk的使用方法**
 
-java示例代码
+## java示例代码
 ```$xslt
 package com.jdcloud.apigateway.signature;
 
@@ -34,7 +34,7 @@ public class Main {
 java sdk[下载请点击](https://jdai.oss.cn-north-1.jcloudcs.com/aisdk/sdk/java.zip)
 
 
-python示例代码
+## python示例代码
 ```$xslt
 # coding=utf8
 

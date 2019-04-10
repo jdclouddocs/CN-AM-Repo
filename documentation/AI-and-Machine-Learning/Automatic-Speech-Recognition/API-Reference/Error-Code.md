@@ -1,10 +1,10 @@
  
-## 错误码
+# 错误码
 
-### 1. 系统级错误码
+## 1. 系统级错误码
 [详见返回码](https://aidoc.jd.com/user/returncode.html) 
 
-### 2. 业务错误码
+## 2. 业务错误码
 
 <table>
   <tr>
