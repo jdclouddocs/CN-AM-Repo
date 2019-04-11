@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63508a41-a0b5-432e-80ab-9cd23cc04296" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Operation-Guide/Authentication.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Operation-Guide/Signature-Algorithm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Operation-Guide/Use-Sdk.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Getting-Started/add-into-channel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Getting-Started/call-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Getting-Started/deployment.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Getting-Started/development-of-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Getting-Started/instal-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Getting-Started/upload-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Application-Scenarios.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Application-Scenarios.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Basic-Infrastructure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Benefits.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Benefits.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Core-Concepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Features.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Features.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Product-Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Product-Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Restrictions.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Restrictions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/public-beta-introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/public-beta-introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/cluster-management.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/general-layout.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/hyperledger.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Pricing/Billing-Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Pricing/Billing-Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Pricing/Purchase-Process.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Pricing/Purchase-Process.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/TOC.yml" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/TOC.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Getting-Started/add-into-channel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Getting-Started/call-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Getting-Started/deployment.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Getting-Started/development-of-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Getting-Started/instal-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Getting-Started/upload-chain-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Application-Scenarios.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Application-Scenarios.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Basic-Infrastructure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Benefits.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Benefits.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Core-Concepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Features.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Features.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Product-Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Product-Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Restrictions.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Restrictions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/public-beta-introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/public-beta-introduction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Operation-Guide/cluster-management.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Operation-Guide/general-layout.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Operation-Guide/hyperledger.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Pricing/Billing-Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Pricing/Billing-Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Pricing/Purchase-Process.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Pricing/Purchase-Process.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/TOC.yml" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/TOC.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/API-Reference/Error-Code.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/Error-Code.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Application-Scenarios.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Benefits.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Features.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Product-Overview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/Restrictions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Introduction/public-beta-introduction.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Operation-Guide/Authentication.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Authentication.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Operation-Guide/Signature-Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Signature-Algorithm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Operation-Guide/Use-Sdk.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Use-Sdk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Pricing/Billing-Overview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/Pricing/Purchase-Process.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/lexer/TOC.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/demo" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +23,7 @@
         <counts>
           <entry key="Signature-Algorithm" value="1" />
           <entry key="Use-Sdk" value="1" />
+          <entry key="demo" value="1" />
           <entry key="iml" value="1" />
           <entry key="md" value="399" />
           <entry key="png" value="3" />
@@ -91,6 +36,7 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="3" />
+          <entry key="JAVA" value="1" />
           <entry key="Markdown" value="401" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="XML" value="6" />
@@ -100,14 +46,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="746" />
-          <entry key="txt" value="105" />
+          <entry key="txt" value="114" />
           <entry key="yml" value="137" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="746" />
-          <entry key="PLAIN_TEXT" value="105" />
+          <entry key="PLAIN_TEXT" value="114" />
           <entry key="YAML" value="137" />
         </counts>
       </usages-collector>
@@ -115,18 +61,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Features.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="250">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Product-Overview.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -337,46 +271,7 @@
               <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Bank-Card-Number-Recognize" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Bank-Card-Number-Recognize" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="API-Reference" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Value-Added-Tax-Invoice-Recognize" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Value-Added-Tax-Invoice-Recognize" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Introduction" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Value-Added-Tax-Invoice-Recognize" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Operation-Guide" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Value-Added-Tax-Invoice-Recognize" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Pricing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -454,7 +349,7 @@
     <property name="SearchEverywhereHistoryKey" value="-&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554975675090" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554975866233" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -580,11 +475,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554972690738</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="增值税发票已经完成">
+      <created>1554975855183</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554975855183</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27776000" />
+    <option name="totallyTimeSpent" value="28375000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -597,6 +499,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -646,16 +549,10 @@
     <MESSAGE value="特定任务识别已完成" />
     <MESSAGE value="智能鉴黄已完成" />
     <MESSAGE value="人脸搜索已完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="人脸搜索已完成" />
+    <MESSAGE value="增值税发票已经完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="增值税发票已经完成" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/TOC.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="32" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Image-Antiporn-Recognize/TOC.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
@@ -1052,6 +949,9 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/demo">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/TOC.yml">
       <provider selected="true" editor-type-id="text-editor">
