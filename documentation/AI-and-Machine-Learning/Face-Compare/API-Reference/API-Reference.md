@@ -25,12 +25,12 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/face_compare_chanchuangyun
+https://aiapi.jd.com/jdai/face_compare
 ```
 
 ### 2. 请求方式：
   
-https `post` aiapi.jd.com/jdai/face_compare_chanchuangyun
+https `post` aiapi.jd.com/jdai/face_compare
 
 ### 3. 请求参数  
  
