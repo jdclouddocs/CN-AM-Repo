@@ -1,74 +1,27 @@
-# 文本分类
+# 短文本相似度
 
 ## 一、接口描述 
 ### 1. 功能描述  
-  识别用户话术的领域信息，当前版本在13个领域上进行分类：歌曲、广播、故事、百科、天气、时间、新闻、生活查询、岀行、股票、购物、音箱指令、家居指令、闲聊、翻译、计算机、闹钟。
-<table>
-   <tr>
-      <th>types</th>
-      <th>0</th>
-      <th>1</th>
-      <th>2</th>
-      <th>3</th>
-      <th>4</th>
-      <th>5</th>
-      <th>6</th>
-   </tr>
-   <tr>
-      <td>domain name</td>
-      <td>other</td>
-      <td>calcu</td>
-      <td>chat</td>
-      <td>info</td>
-      <td>instruct</td>
-      <td>local</td>
-      <td>news</td>
-   </tr>
-</table>
+短文本相似度API提供不同短文本之间相似度的计算，输出的相似度是一个介于0到1之间的实数值，越大则相似度越高。这个相似度值可以直接用于结果排序，也可以作为一维基础特征作用于更复杂的系统。
 
-<table>
-   <tr>
-      <th>types</th>
-      <th>7</th>
-      <th>8</th>
-      <th>9</th>
-      <th>10</th>
-      <th>11</th>
-      <th>12</th>
-   </tr>
-   <tr>
-      <td>domain name</td>
-      <td>radio</td>
-      <td>reject</td>
-      <td>song</td>
-      <td>story</td>
-      <td>weather</td>
-      <td>shopping</td>
-   </tr>
-</table>
-
-### 2. 接口使用
+### 2. 接口使用：
 平台为每个API提供试用体验服务，您在AI市场选择“免费试用”规格下单后，即可开始体验业内领先的人工智能API服务。
 免费试用服务具有调用量、QPS限制，如需更高性能的API服务，可以提交咨询工单，联系京东AI扩容购买。
 
-在获得使用权限后，您可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)
-
+使用接口前，需要先完成API的下单购买，然后可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)  
 
 ## 二、请求说明
-
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/textClassification
+https://aiapi.jd.com/jdai/similarity_chanchuangyun
 ```
+### 2. 请求方式：  
+https `get/post` aiapi.jd.com/jdai/similarity_chanchuangyun
 
-### 2. 请求方式：
-
-https `post` aiapi.jd.com/jdai/textClassification
-
-### 3. 请求参数
-
-#### （1）query请求参数
+### 3. 请求参数  
+ 
+#### （1）query请求参数  
 公共请求参数
 <table>
    <tr>
@@ -131,17 +84,24 @@ https `post` aiapi.jd.com/jdai/textClassification
       <th>描述</th>
    </tr>
    <tr>
-      <td>text</td>
+      <td>text1</td>
       <td>string</td>
       <td>是</td>
       <td>克林顿访问中国</td>
-      <td>输入文本</td>
+      <td>输入文本1</td>
+   </tr>
+   <tr>
+      <td>text2</td>
+      <td>string</td>
+      <td>是</td>
+      <td>尼克松访华</td>
+      <td>输入文本2</td>
    </tr>
 </table>
 
 ### 4、请求代码示例
-建议您使用我们提供的SDK进行调用，SDK获取及调用方式详见本页一接口描述中的2接口使用
 
+建议您使用我们提供的SDK进行调用，SDK获取及调用方式详见本页一接口描述中的4接口使用
 
 ## 三、返回说明
 ### 1、返回参数
@@ -189,6 +149,7 @@ https `post` aiapi.jd.com/jdai/textClassification
 </table>
 
 #### （2）业务返回参数
+*status、message、request_id根据网关定义如下，如不一致请同步给产品经理*
 
 <table>
    <tr>
@@ -206,7 +167,7 @@ https `post` aiapi.jd.com/jdai/textClassification
       <tr>
       <td>message</td>
       <td>string</td>
-      <td>ok</td>
+      <td>OK</td>
       <td>参照四、错误码-业务错误码</td>
    </tr>
       <tr>
@@ -216,14 +177,14 @@ https `post` aiapi.jd.com/jdai/textClassification
       <td>便于双方定位问题</td>
    </tr>
    <tr>
-      <td>types</td>
-      <td>list</td>
-      <td> [{"type": 3, "probability": 0.727774441242218, "domainName": "info"},,...] </td>
-      <td>文本分类结果，详情下面types字段说明</td>
+      <td>similarity</td>
+      <td>object</td>
+      <td>{"score":0.19182715292135427,"text1":"克林顿访问中国","text2":"尼克松访华"}</td>
+      <td>相似度结果，，详情下面similarity字段说明</td>
    </tr>
 </table>
 
-#### types字段说明
+#### similarity字段说明
 <table>
    <tr>
       <th>名称</th>
@@ -232,56 +193,48 @@ https `post` aiapi.jd.com/jdai/textClassification
       <th>描述</th>
    </tr>
    <tr>
-      <td>type</td>
-      <td>int</td>
-      <td>3</td>
-      <td>分类序号</td>
-   </tr>
-   <tr>
-      <td>probability</td>
-      <td>double</td>
-      <td>0.727774441242218</td>
-      <td>分类概率</td>
-   </tr>
-   <tr>
-      <td>domainName</td>
+      <td>text1</td>
       <td>string</td>
-      <td>info</td>
-      <td>分类名称</td>
+      <td>克林顿访问中国</td>
+      <td>输入文本1</td>
+   </tr>
+   <tr>
+      <td>text2</td>
+      <td>int</td>
+      <td>尼克松访华</td>
+      <td>输入文本2</td>
+   </tr>
+   <tr>
+      <td>score</td>
+      <td>double</td>
+      <td>0.19182715292135427</td>
+      <td>相似度 0~1，分数越高表示两个文本越相似。</td>
    </tr>
 </table>
 
-
-### 2、返回示例
-
+### 2、返回示例  
+*此处内容为通过网关后返回的结果，包含公共返回参数*   
 
 ```
 {
-    "code": "10000",
+"code": "10000",
     "charge": false,
-    "remain": 97,
+    "remain": 0,
     "msg": "查询成功",
     "result": {
-                "status": 0,
-                "request_id": xxx,
-                "message": "ok",
-                "types": [
-                  {
-                    "type": 3,
-                    "probability": 0.727774441242218,
-                    "domainName": "info"
-                  },
-                  {
-                    "type": 8,
-                    "probability": 0.2294873297214508,
-                    "domainName": "reject"
-                  },
-                  {
-                    "type": 9,
-                    "probability": 0.042706381529569626,
-                    "domainName": "song"
-                  }
-                ]
-              }
-}
+         "status": 0,
+         "request_id": "8f47d951-34fe-4fac-b96c-d60d0a9bd719",
+         "message": "ok",
+         "similarity": {
+              "score": 0.19182715292135427,
+              "text1": "克林顿访问中国",
+              "text2": "尼克松访华"
+         }
+    }
+}    
 ```
+
+
+	
+
+

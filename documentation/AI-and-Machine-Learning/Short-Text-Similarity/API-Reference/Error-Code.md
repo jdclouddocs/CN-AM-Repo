@@ -1,10 +1,10 @@
 
 # 错误码
 
-## 1.系统级错误码
-[详见返回码](https://aidoc.jd.com/user/returncode.html)
-
+## 1.系统级错误码（固定文案，请保留）
+[详见返回码](https://aidoc.jd.com/user/returncode.html)  
 ## 2.业务错误码
+*`status`、`message`根据网关定义如下，如不一致请同步给产品经理*
 
 <table>
    <tr>
@@ -28,4 +28,3 @@
       <td>参数解析错误</td>
    </tr>
 </table>
-
