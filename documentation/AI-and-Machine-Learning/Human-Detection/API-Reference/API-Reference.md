@@ -24,8 +24,8 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/human_detect_chanchuangyun
-未上线时地址：http://192.168.0.135:8000/human_detect_chanchuangyun
+https://aiapi.jd.com/jdai/human_detect
+未上线时地址：http://192.168.0.135:8000/human_detect
 ```
 
 ### 2. 请求方式：

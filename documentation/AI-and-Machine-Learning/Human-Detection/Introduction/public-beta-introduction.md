@@ -17,6 +17,6 @@ QPS：5
 
 ## 备注
 
-免费公测期间，京东AI Neuhub平台人脸对比API不适用于SLA协议。
+免费公测期间，京东AI Neuhub平台人体检测API不适用于SLA协议。
 
 
