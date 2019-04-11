@@ -1,50 +1,67 @@
+ # **API的访问授权**
 
-# 鉴权认证
-## 一、	名词介绍
-- 1、	secretKey：完成NeuHub平台的用户认证后，在[买家中心](https://neuhub.jd.com/user/baseInfo)中可进行查看，作为重要的调用凭证请注意保密，如有泄露请第一时间联系NeuHub平台在线客服/提交工单，我们将为您进行替换。
+API的访问授权过程，即API提供方给API调用方授权应用的过程。授权过程分为两部分：
 
-- 2、	timestamp：13位时间戳，自1970年1月1日0时起的毫秒数，为了防止用户时钟与服务器时钟不同步而导致的认证失败，此处引入5分钟的宽松系数。如果服务器收到请求的时间不符合以上时间要求，则认为请求超时，拒绝该请求；如果符合上述要求，则执行下一步操作。
+- API调用方创建和提供 **访问密钥** 。访问密钥（APIKey/APISecret）代表请求者的身份。
 
-- 3、sign: 签名，计算规则详见下方计算步骤规则
+- API提供方授权API分组给API调用方使用。
 
-## 二、通过NeuHub提供的sdk计算sign
+当API提供方的客户或者自己需要测试调用 API 时，都需要创建 访问密钥 作为请求者的身份，然后由API提供方在访问授权中，授权API分组给 API调用者使用。
+## **操作步骤**
+**API调用者创建和提供 访问密钥**
 
-- 1、通过`secretkey`和`timestamp`计算sign的sdk
+**STEP1: 点击左侧菜单 访问密钥 进入访问密钥列表页**
 
-可在以下链接下载，我们提供java与python两种语言的sdk供您选用
+![鉴权1.png](../../../../image/AI-and-Machine-Learning/lexer/鉴权1.png)
 
-    Java SDK：http://jdai.oss.cn-north-1.jcloudcs.com/aisdk/sdk-java.zip
+**STEP2: 点击 创建访问密钥**
 
-    Python SDK：http://jdai.oss.cn-north-1.jcloudcs.com/aisdk/sdk-python.zip
+![鉴权2.png](../../../../image/AI-and-Machine-Learning/lexer/鉴权2.png)
 
-- 2、查看每个API使用sdk调用的示例代码（示例代码仅作参考，请根据实际情况做相应调整）
+- 密钥创建成功后，系统会自动生成访问密钥ID、APIKey、APISecret。
 
-下载sdk后，您可以在每个api的商品详情页，点击进入测试页面，查看使用sdk调用接口的示例代码
+- API调用者需要将 **访问密钥ID** 告知API提供者，由API提供者进行访问授权。
 
-![26.png](../../../../image/AI-and-Machine-Learning/Face-Compare/26.png)
-![26.png](../../../../image/AI-and-Machine-Learning/Face-Compare/27.png)
+**API提供者授权API分组给API调用者使用**
 
-## 三、sign计算步骤详解
-- 1、把`secretkey`和`timestamp`参数值进行拼装
-例如：
+**STEP1: API提供者获取API调用者的访问密钥ID。**
 
-字段 | 参数
----|---
-secretkey | 2e148773a0338a8f2200ba90d445f084
-timestamp | 1541491668060
+API调用者可在访问密钥详情页找到访问密钥ID，并将该ID告诉API提供者。
 
-拼装结果为：
-`
-2e148773a0337a8f2200ba90d445f0841541491668060
-`
+![鉴权3.png](../../../../image/AI-and-Machine-Learning/lexer/鉴权3.png)
 
-- 2、使用MD5对拼装完的字符串进行加密，获取`sign`
+**STEP2: API提供者创建1个授权。**
 
-```
-import com.google.common.hash.Hashing;
+首先进入左侧菜单的 **访问授权** 列表页
 
-String secretKey = "2e148773a0338a8f2200ba90d445f084";
-long timestamp = System.currentTimeMillis();
-String sign = Hashing.md5().hashString(secretKey + timestamp, Charset.forName("UTF-8")).toString();
-```
+![鉴权4.png](../../../../image/AI-and-Machine-Learning/lexer/鉴权4.png)
+
+然后点击 **创建授权**，在授权信息中，填入API调用者提供的访问密钥ID。
+
+**STEP3: API提供者绑定授权给API分组**
+
+密钥创建成功后，点击 **绑定**进行授权分组的绑定关系。
+
+
+## **后端签名**
+后端签名密钥采用京东云用户AK/SK(Access Key/Access Key Secret) 在网关请求您的真实后端时，通过后端签名校验保障您后端的安全。
+
+您将京东云用户AK绑定到 API分组 上后，当网关请求这个分组下的 API 时，会添加并出示该AK/SK，您的后端通过验证签名字符串来验证网关的身份。
+
+点击左侧 后端签名，进行后端签名的配置和绑定。
+
+### **操作步骤**
+点击左侧 **后端签名**，进行后端签名的配置和绑定
+
+1.进入后端签名列表页
+
+![签名1.png](../../../../image/AI-and-Machine-Learning/lexer/签名1.png)
+
+2.新增后端签名
+
+![签名2.png](../../../../image/AI-and-Machine-Learning/lexer/签名2.png)
+
+3.给分组绑定签名
+
+![签名3.png](../../../../image/AI-and-Machine-Learning/lexer/签名3.png)
 
