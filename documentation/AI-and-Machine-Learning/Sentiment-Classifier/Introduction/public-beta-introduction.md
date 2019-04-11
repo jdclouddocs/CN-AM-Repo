@@ -1,6 +1,6 @@
 # 公测说明
 
-京东AI Neuhub平台情感分析API于2019年4月15日开放公测，公测期间用户可以免费进行试用，点击[购买流程](http://neuhub.jd.com/ai/api/nlp/lexer)
+京东AI Neuhub平台情感分析API于2019年4月15日开放公测，公测期间用户可以免费进行试用，点击[申请试用](http://neuhub.jd.com/ai/api/nlp/sentiment)
 
 由于测试资源有限，我们无法满足每个用户的测试需求，在此深表歉意！
 
