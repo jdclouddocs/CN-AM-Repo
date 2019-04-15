@@ -1,11 +1,16 @@
 # 错误码
 
 ### 1. 系统级错误码
+
 <table>
   <tr>
     <th>返回码 (code)</th>
     <th>说明（message）</th>
   </tr>
+    <tr>
+      <td>10000</td>
+      <td>查询成功</td>
+    </tr>
   <tr>
     <td>10001</td>
     <td>错误的请求appkey</td>
@@ -18,6 +23,10 @@
     <td>10004</td>
     <td>URL上appkey参数不能为空</td>
   </tr>
+    <tr>
+      <td>10010</td>
+      <td>接口需要付费，请充值</td>
+    </tr>
    <tr>
     <td>10020</td>
     <td>系统繁忙，请稍后再试</td>
@@ -78,7 +87,7 @@
     <td>11030</td>
     <td>发布方接口返回格式有误</td>
   </tr>  
-</table>
+</table>  
 
 ### 2.业务错误码
 

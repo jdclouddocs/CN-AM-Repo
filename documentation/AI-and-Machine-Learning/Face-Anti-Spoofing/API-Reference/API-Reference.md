@@ -9,6 +9,10 @@
 人脸活体检测API主要用于针对用户上传图像，返回该图像中的人脸是否为真人
 
 ### 2. 接口使用 
+
+公测期间用户可以免费（0元）进行测试，根据[购买流程](http://neuhub.jd.com/ai/api/face/faceliveness)下单后，即可开始体验业内领先的人工智能API服务。公测期间服务具有调用量、QPS限制，如需更高性能的API服务，请联系客服扩容购买。
+
+
 使用接口前，需要先完成API的下单购买，然后可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)  
 
 ### 3.图片要求

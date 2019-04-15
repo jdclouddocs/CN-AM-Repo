@@ -1,4 +1,4 @@
-# 银行卡识别
+# 增值税发票识别
 
 ## 一、接口描述 
 
@@ -7,12 +7,13 @@
   基于业界领先的深度学习技术，利用光学字符识别技术，将图片上的文字转换为可编辑的文本，为您提供场景丰富的整图文字检测和识别服务。
   
 ### 2. 接口数据要求：  
-> 1. 图片格式：jpg(jpeg)、png
+> 1. 图片格式：jpg(jpeg)、png、jijf
 > 2. 图片大小：小于5M 
-> 3. 目前只支持横卡，暂不支持竖卡。
 
 ### 4. 接口使用：  
-公测期间用户可以免费（0元）进行测试，根据[购买流程](http://neuhub.jd.com/ai/api/ocr/bankcard)下单后，即可开始体验业内领先的人工智能API服务。公测期间服务具有调用量、QPS限制，如需更高性能的API服务，请联系客服扩容购买。
+
+公测期间用户可以免费（0元）进行测试，根据[购买流程](http://neuhub.jd.com/ai/api/ocr/receipt)下单后，即可开始体验业内领先的人工智能API服务。公测期间服务具有调用量、QPS限制，如需更高性能的API服务，请联系客服扩容购买。
+
 
 在获得使用权限后，您可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)  
 
@@ -20,10 +21,10 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/ocr_bankcard
+https://aiapi.jd.com/jdai/ocr_invoice_chanchuangyun
 ```
 ### 2. 请求方式：  
-https  `post`aiapi.jd.com/jdai/ocr_bankcard
+https  `post`aiapi.jd.com/jdai/ocr_invoice_chanchuangyun
 ### 3. 请求参数    
 #### （1）query请求参数  
 公共请求参数  
@@ -77,11 +78,18 @@ result参数信息
 
 名称 | 类型 | 示例值 | 描述
 ------|-----|-----|-----
-bank_name|string|邮政银行北京分行|银行名称
-bank_number|string|6221881000046221446|银行卡号
-card_count|string|19|卡号位数
-card_name|string|绿卡银联标准卡|卡名称
-card_type|string|储蓄卡|卡类型
+buyer_name|string|华电虎林凤力发电有限公司|购买方名称
+buyer_tax_no|string|372569065123562|购买方税号
+code|string|3700081650|发票代码
+invoice_amount|string|2324.79|发票金额
+invoice_date|string|20090424|开票日期
+invoice_no|string|01599485|发票号码
+invoice_type|string|04|发票类型
+saler_name|string|山东阳谷振璃工艺制品司|销售方名称
+saler_tax_no|string|372522168018036|销售方税号
+tax_amount|string|13675.21|发票税额
+total_amount|string|16000.00|价格合计
+verify_code|string|44095028783173850994|校验码
 
 ### 2、返回示例   
 
@@ -92,11 +100,18 @@ card_type|string|储蓄卡|卡类型
     "message": "success",
     "request_id": "815774d6ed6ca43e5d0cce316d36d822",
     "result": {
-        "bank_name": "邮政银行北京分行",
-        "bank_number": "6221881000046221446",
-        "card_count": "19",
-        "card_name": "绿卡银联标准卡",
-        "card_type": "储蓄卡"
+        "buyer_name": "华电虎林凤力发电有限公司",
+        "buyer_tax_no": "372569065123562",
+        "code": "3700081650",
+        "invoice_amount": "2324.79",
+        "invoice_date": "20090424",
+        "invoice_no": "01599485",
+        "invoice_type": "04",
+        "saler_name": "山东阳谷振璃工艺制品司",
+        "saler_tax_no": "372522168018036",
+        "tax_amount": "13675.21",
+        "total_amount": "16000.00",
+        "verify_code": "44095028783173850994"
     }
 }
 

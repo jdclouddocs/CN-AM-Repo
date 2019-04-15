@@ -9,6 +9,9 @@
 为一个已经创建的人脸分组增加一张人脸
 
 ### 2. 接口使用 
+
+公测期间用户可以免费（0元）进行测试，根据[购买流程](http://neuhub.jd.com/ai/api/face/search)下单后，即可开始体验业内领先的人工智能API服务。公测期间服务具有调用量、QPS限制，如需更高性能的API服务，请联系客服扩容购买。
+
 使用接口前，需要先完成API的下单购买，然后可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)  
 
 ### 3.图片要求
@@ -197,7 +200,7 @@ https `post` aiapi.jd.com/jdai/faceCreate
     	    "requestid": "6979e9bd79b944b49e0d6e74079d5098",
             "message": "success",
             "status": 0,
-            "result":"{faceId:"daf9e9bd79b944b49e0d6e74079d5098"}",
+            "result":"{faceId:"daf9e9bd79b944b49e0d6e74079d5098"}"
     }
 }
 ```
