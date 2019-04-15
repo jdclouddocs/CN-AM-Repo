@@ -22,7 +22,7 @@
 
 公测期间用户可以免费（0元）进行测试，根据[购买流程](http://neuhub.jd.com/ai/api/image/pornIdentification)下单后，即可开始体验业内领先的人工智能API服务。公测期间服务具有调用量、QPS限制，如需更高性能的API服务，请联系客服扩容购买。
 
-
+在获得使用权限后，您可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)  。
 ## 二、请求说明 ##
 
 公共请求参数
@@ -69,7 +69,7 @@ header参数
 
 名称 | 类型 | 必填 | 示例值	| 描述
 ------|------|-----|-----|-----
-request url | String | 是 | http://aiapi.jd.com/jdai/cvImage_chanchuangyun | 请求地址
+request url | String | 是 | http://aiapi.jd.com/jdai/cvImage | 请求地址
 request method | String | 是 | GET | 请求方法
 
 
@@ -78,7 +78,7 @@ header参数
 
 名称 | 类型 | 必填 | 示例值	| 描述
 ------|------|-----|-----|-----
-request url | String  | 是 | http://aiapi.jd.com/jdai/localCvImage_chanchuangyun | 请求地址
+request url | String  | 是 | http://aiapi.jd.com/jdai/localCvImage | 请求地址
 request method | String | 是 | POST | 请求方法
 content type | String | 否 | application/octet-stream ,text/plain ... | 二进制流，文件类型..
 

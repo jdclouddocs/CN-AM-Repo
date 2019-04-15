@@ -15,7 +15,7 @@
 公测期间用户可以免费（0元）进行测试，根据[购买流程](http://neuhub.jd.com/ai/api/image/snapshop)下单后，即可开始体验业内领先的人工智能API服务。公测期间服务具有调用量、QPS限制，如需更高性能的API服务，请联系客服扩容购买。
 
 
-在获得使用权限后，您可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)  
+在获得使用权限后，您可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html) 。 
 
 ## 二、请求说明
 ### 1. 接口地址 ：
@@ -68,10 +68,10 @@ main_category_id | int | action_type=0情况下必填 | main_category_id=2 | 待
 main_body_rectangle | String | action_type=1情况下必填 | main_body_rectangle=<br/>10,10&#124;700,900 | 重新框选区域位置,结构为:左上角坐标x值(left),左上角坐标y值(top)&#124;右下角坐标x值(right),右下角坐标y值(bottom)
 
 
-注意:1.若无action_type字段，用户触发请求无效; 2.channel_id=test 每日最大调用量为500次
+注意:1.若无action_type字段，用户触发请求无效; 2.channel_id=test 每日最大调用量为500次。
 
 ### 4、请求代码示例
-建议您使用我们提供的SDK进行调用，SDK获取及调用方式详见本页一接口描述中的4接口使用
+建议您使用我们提供的SDK进行调用，SDK获取及调用方式详见本页一接口描述中的4接口使用。
 
 ## 三、返回说明
 ### 1、返回参数

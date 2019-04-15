@@ -13,7 +13,7 @@
 公测期间用户可以免费（0元）进行测试，根据[购买流程](http://neuhub.jd.com/ai/api/face/compare)下单后，即可开始体验业内领先的人工智能API服务。公测期间服务具有调用量、QPS限制，如需更高性能的API服务，请联系客服扩容购买。
 
 
-在获得使用权限后，您可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)  
+在获得使用权限后，您可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)  。
 
 ### 3.图片要求
 
@@ -95,7 +95,7 @@ https `post` aiapi.jd.com/jdai/face_compare
 </table>
 
 ### 4、请求代码示例
-建议您使用我们提供的SDK进行调用，SDK获取及调用方式详见本页一接口描述中的2接口使用
+建议您使用我们提供的SDK进行调用，SDK获取及调用方式详见本页一接口描述中的2接口使用。
  
 ## 返回说明
 
