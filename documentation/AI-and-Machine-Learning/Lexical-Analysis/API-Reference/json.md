@@ -1,0 +1,24 @@
+jdcloudHttpResponse
+   --content
+   --contentCharset
+   --contentLoggingLimit
+   --contentType
+   --headers
+      --content-type
+      --date
+      --transfer-encoding
+      --connection
+      --server
+      --x-jdcloud-request-id
+      --x-jdcloud-upstream-latency
+      --x-jdcloud-proxy-latency
+      --via
+   --mediaType
+      --charsetParameter
+      --parameters
+         --charset
+      --subType
+      --type
+   --statusCode
+   --statusMessage  
+           

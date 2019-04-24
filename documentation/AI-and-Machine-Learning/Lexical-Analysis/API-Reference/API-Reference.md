@@ -122,7 +122,161 @@ https `post` aiapi.jd.com/jdai/lexer
 
 ## 三、返回说明
 ### 1、返回参数
-#### （1）公共返回参数
+#### （1）系统返回参数
+
+<table>
+   <tr>
+      <th>名称</th>
+      <th>类型</th>
+      <th>示例值</th>
+      <th>描述</th>
+   </tr>
+   <tr>
+      <td>content</td>
+      <td>string</td>
+      <td>eyJjb2RlIjoiM...</td>
+      <td></td>
+   </tr>
+   <tr>
+   <td>contentCharset</td>
+     <td>string</td>
+     <td>UTF-8</td>
+     <td>编码格式</td>
+   </tr>
+  <tr>
+  <td>contentLoggingLimit</td>
+    <td>int</td>
+    <td>12345</td>
+    <td>日志限制长度</td>
+  </tr>
+  <tr>
+     <td>contentType</td>
+     <td>string</td>
+     <td>application/json</td>
+     <td>标准编码格式</td>
+   </tr>
+  <tr>
+     <td>headers</td>
+     <td>list</td>
+     <td> {"content-type": ["application/json;charset=utf-8"],"date": ["Tue, 23 Apr 2019 02:42:45 GMT"],"transfer-encoding": ["chunked"],"connection": ["close"],...}</td>
+     <td>网关的头信息，用于存储相关信息</td>
+   </tr>
+  <tr>
+     <td>mediaType</td>
+     <td>list</td>
+     <td> {"charsetParameter": "UTF-8","parameters": {"charset": "utf-8"},...}</td>
+     <td>网关的媒介类型</td>
+   </tr>
+  <tr>
+     <td>statusCode</td>
+     <td>string</td>
+     <td>200</td>
+     <td>系统状态码</td>
+   </tr>
+  <tr>
+     <td>statusMessage</td>
+     <td>string</td>
+     <td>OK</td>
+     <td>系统状态信息</td>
+   </tr>
+</table>
+   
+#### headers字段说明
+
+<table>
+   <tr>
+      <th>名称</th>
+      <th>类型</th>
+      <th>示例值</th>
+      <th>描述</th>
+   </tr>
+   <tr>
+      <td>content-type</td>
+      <td>string</td>
+      <td>标准编码格式</td>
+      <td>application/json</td>
+   </tr>
+   <tr>
+     <td>date</td>
+     <td>string</td>
+     <td>日期</td>
+     <td>Tue, 23 Apr 2019 02:42:45 GMT</td>
+   </tr>
+   <tr>
+     <td>transfer-encoding</td>
+     <td>string</td>
+     <td>chunked</td>
+     <td>传输编码</td>
+   </tr>
+   <tr>
+     <td>connection</td>
+     <td>string</td>
+     <td>close</td>
+     <td>是否连接</td>
+   </tr>
+   <tr>
+     <td>server</td>
+     <td>string</td>
+     <td>nginx</td>
+     <td>服务器类型</td>
+   </tr>
+   <tr>
+     <td>x-jdcloud-request-id</td>
+     <td>string</td>
+     <td>bj05f0a...</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td>x-jdcloud-upstream-latency</td>
+     <td>string</td>
+     <td>123</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td>x-jdcloud-proxy-latency</td>
+     <td>string</td>
+     <td>92</td>
+     <td></td>
+   </tr>
+   <tr>
+     <td>via</td>
+     <td>string</td>
+     <td>jd-gateway/1.0.1</td>
+     <td></td>
+   </tr>
+</table>
+
+#### mediaType字段说明
+<table>
+   <tr>
+      <th>名称</th>
+      <th>类型</th>
+      <th>示例值</th>
+      <th>描述</th>
+   </tr>
+   <tr>
+     <td>charsetParameter</td>
+     <td>string</td>
+     <td>UTF-8</td>
+     <td>字符集参数</td>
+   </tr>
+   <tr>
+     <td>parameters</td>
+     <td>string</td>
+     <td>"charset": "utf-8"</td>
+     <td>参数</td>
+   </tr>
+   <tr>
+     <td>subType</td>
+     <td>string</td>
+     <td>json</td>
+     <td>子类型</td>
+   </tr>
+</table>
+   
+#### （2）公共返回参数
+
+
 
 <table>
    <tr>
@@ -165,7 +319,7 @@ https `post` aiapi.jd.com/jdai/lexer
    </tr>
 </table>
 
-#### （2）业务返回参数
+#### （3）业务返回参数
 
 <table>
    <tr>

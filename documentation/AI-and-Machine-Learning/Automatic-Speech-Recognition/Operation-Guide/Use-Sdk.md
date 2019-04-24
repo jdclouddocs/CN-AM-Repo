@@ -1,6 +1,8 @@
 # **sdk的使用方法**
 
-## java示例代码
+##获取说明 
+根据[购买流程](超链接未填写)，0元购买“语音识别”产品后，再次进入京东云“语音识别”控制台页面，点击[“下载SDK”](https://jdai.oss.cn-north-1.jcloudcs.com/aisdk/sdk/java.zip)，进入API调试页面下载SDK。
+### java示例代码
 ```$xslt
 package com.jdcloud.apigateway.signature;
 
