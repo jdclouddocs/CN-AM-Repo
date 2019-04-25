@@ -30,8 +30,6 @@ https  `post`aiapi.jd.com/jdai/PoliticiansRecognition
 
 名称 | 类型 | 必填 | 示例值	| 描述
 ------|------|-----|-----|-----
-appkey | String | 是 | 80d2b762ecb86593f9668526920f46c	 | 您的appkey，可在买家中心控制台中获取  
-timestamp | long | 是 | 1541491668060 | 请求的时间戳，精确到毫秒，timestamp有效期5分钟  
 sign | String | 是 | 2e148773a0337a8f2200ba90d445f083	 | 签名，根据规则MD5(sectetkey,timestamp)， 
 
 #### （2）header请求参数

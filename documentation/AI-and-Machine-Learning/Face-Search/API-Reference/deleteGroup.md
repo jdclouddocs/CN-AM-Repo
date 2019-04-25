@@ -39,20 +39,6 @@ https `post` aiapi.jd.com/jdai/faceGroupDelete
       <th>描述</th>
    </tr>
    <tr>
-      <td>appkey</td>
-      <td>string</td>
-      <td>是</td>
-      <td>80d2b762ecb86593f9668526920f46c</td>
-      <td>您的appkey，可在买家中心控制台中获</td>
-   </tr>
-   <tr>
-      <td>timestamp</td>
-      <td>long</td>
-      <td>是</td>
-      <td>1541491668060</td>
-      <td>请求的时间戳，精确到毫秒，timestamp有效期5分钟</td>
-   </tr>
-   <tr>
       <td>sign</td>
       <td>string</td>
       <td>是</td>
