@@ -1,6 +1,13 @@
 # **sdk的使用方法**
 
-## java示例代码
+## 获取说明
+根据[购买流程]（加超链接），0元购买“短文本相似度”产品后，再次进入京东云“短文本相似度”控制台页面，点击“下载SDK”，进入API调试页面下载SDK。
+
+
+## 调用方式
+根据[购买流程]()，0元购买“词法分析”产品后，再次进入京东云“词法分析”控制台页面，点击“[下载](https://jdai.oss.cn-north-1.jcloudcs.com/aisdk/sdk/java.zip)”，进入API调试页面下载SDK。
+
+### java示例代码
 ```$xslt
 package com.jdcloud.apigateway.signature;
 
@@ -34,7 +41,7 @@ public class Main {
 java sdk[下载请点击](https://jdai.oss.cn-north-1.jcloudcs.com/aisdk/sdk/java.zip)
 
 
-## python示例代码
+### python示例代码
 ```$xslt
 # coding=utf8
 

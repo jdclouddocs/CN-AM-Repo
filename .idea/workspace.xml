@@ -2,33 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63508a41-a0b5-432e-80ab-9cd23cc04296" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/call-methods.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/AI-and-Machine-Learning/lexer/AK管理.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Bank-Card-Number-Recognize/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Bank-Card-Number-Recognize/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Commentary-Extraction/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Commentary-Extraction/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Anti-Spoofing/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Anti-Spoofing/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Detect-and-Analysis/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Detect-and-Analysis/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/createFace.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/createFace.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/createGroup.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/createGroup.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/deleteFace.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/deleteFace.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/deleteGroup.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/deleteGroup.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/listGroups.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/listGroups.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/searchFace.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/API-Reference/searchFace.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Food-Recognition/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Food-Recognition/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/General-Image-OCR/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/General-Image-OCR/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Human-Detection/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Human-Detection/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Identity-Card-Recognize/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Identity-Card-Recognize/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Image-Antiporn-Recognize/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Image-Antiporn-Recognize/API-Reference/API-Reference.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Pose-Estimation/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Pose-Estimation/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Selfie-Segmentation/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Selfie-Segmentation/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Snap-Shop/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Snap-Shop/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Specific-Subject-Face-Recognition/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Specific-Subject-Face-Recognition/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/API-Reference/API-Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-to-Speech/API-Reference/API-Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-to-Speech/API-Reference/API-Reference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Authentication.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Authentication.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Use-Sdk.md" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Use-Sdk.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,24 +19,26 @@
     <session id="2122527198">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Signature-Algorithm" value="3" />
           <entry key="Use-Sdk" value="3" />
+          <entry key="call-methods" value="1" />
           <entry key="demo" value="1" />
           <entry key="iml" value="1" />
           <entry key="java" value="3" />
           <entry key="jpg" value="1" />
-          <entry key="md" value="1168" />
+          <entry key="md" value="1189" />
           <entry key="png" value="3" />
           <entry key="txt" value="4" />
           <entry key="xml" value="6" />
@@ -69,23 +50,23 @@
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="4" />
           <entry key="JAVA" value="4" />
-          <entry key="Markdown" value="1174" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Markdown" value="1195" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="6" />
           <entry key="YAML" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1894" />
-          <entry key="txt" value="218" />
+          <entry key="md" value="2146" />
+          <entry key="txt" value="231" />
           <entry key="yml" value="340" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1894" />
-          <entry key="PLAIN_TEXT" value="218" />
+          <entry key="Markdown" value="2146" />
+          <entry key="PLAIN_TEXT" value="231" />
           <entry key="YAML" value="340" />
         </counts>
       </usages-collector>
@@ -94,47 +75,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Specific-Subject-Face-Recognition/API-Reference/API-Reference.md">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Authentication.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="125">
+                <caret line="5" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/call-methods.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="127">
+                <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Use-Sdk.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Signature-Algorithm.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Authentication.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="200">
-                <caret line="32" selection-start-line="32" selection-end-line="32" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/API-Reference/API-Reference.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="250">
-                <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/API-Reference/API-Reference.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="100">
-                <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-to-Speech/API-Reference/API-Reference.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="100">
-                <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+                <caret line="8" selection-start-line="8" selection-end-line="65" selection-end-column="75" />
               </first_editor>
               <second_editor />
             </state>
@@ -145,8 +134,8 @@
         <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/API-Reference.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+              <first_editor relative-caret-position="300">
+                <caret line="105" column="41" lean-forward="true" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
               </first_editor>
               <second_editor />
             </state>
@@ -154,59 +143,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Pose-Estimation/API-Reference/API-Reference.md">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/json.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="56">
-                <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Selfie-Segmentation/API-Reference/API-Reference.md">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/Error-Code.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="25">
-                <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
-              </first_editor>
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/API-Reference/API-Reference.md">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Signature-Algorithm.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="25">
-                <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-              </first_editor>
+              <first_editor relative-caret-position="-675" />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/API-Reference/API-Reference.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Use-Sdk.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="75">
-                <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Snap-Shop/API-Reference/API-Reference.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="175">
-                <caret line="34" selection-start-line="34" selection-end-line="34" />
+                <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -225,6 +196,7 @@
       <find>sig</find>
       <find>content-type</find>
       <find>系统返回参数</find>
+      <find>open</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -233,11 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Business-License-Recognize/Introduction/Product-Overview.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Commentary-Extraction/Introduction/Product-Overview.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Anti-Spoofing/Introduction/Product-Overview.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Compare/Introduction/Product-Overview.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Detect-and-Analysis/Introduction/Product-Overview.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Face-Search/Introduction/Product-Overview.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Food-Recognition/Introduction/Product-Overview.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/General-Image-OCR/Introduction/Product-Overview.md" />
@@ -274,7 +241,6 @@
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Human-Detection/API-Reference/API-Reference.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Identity-Card-Recognize/API-Reference/API-Reference.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Image-Antiporn-Recognize/API-Reference/API-Reference.md" />
-        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/API-Reference.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Pose-Estimation/API-Reference/API-Reference.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Selfie-Segmentation/API-Reference/API-Reference.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/API-Reference/API-Reference.md" />
@@ -284,6 +250,12 @@
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/API-Reference/API-Reference.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/API-Reference/API-Reference.md" />
         <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-to-Speech/API-Reference/API-Reference.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/API-Reference/API-Reference.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Vehicle-License-Recognize/API-Reference/API-Reference.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Authentication.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/call-methods.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/API-Reference.md" />
+        <option value="$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Use-Sdk.md" />
       </list>
     </option>
   </component>
@@ -294,10 +266,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="472" />
+    <option name="y" value="145" />
+    <option name="width" value="1537" />
+    <option name="height" value="824" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -306,119 +278,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Short-Text-Similarity" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Short-Text-Similarity" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="API-Reference" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Snap-Shop" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Snap-Shop" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="API-Reference" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Syntactic-Parsing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Syntactic-Parsing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="API-Reference" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Text-to-Speech" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Text-to-Speech" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="API-Reference" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Vehicle-License-Recognize" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Vehicle-License-Recognize" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Introduction" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Video-Tagging" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Video-Tagging" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Introduction" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -484,13 +343,77 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Lexical-Analysis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Lexical-Analysis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="API-Reference" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="documentation" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Lexical-Analysis" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Operation-Guide" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="image" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="image" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="CN-AM-Repo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="CN-AM-Repo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="image" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="AI-and-Machine-Learning" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="lexer" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="-&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556163853429" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556444718645" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../openbilibili-go-common" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -500,16 +423,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\aaa\CN-AM-Repo\documentation\AI-and-Machine-Learning\Face-Search\API-Reference" />
+      <recent name="E:\workspace\aaa\CN-AM-Repo\image\AI-and-Machine-Learning\Face-Compare" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\aaa\CN-AM-Repo\image\AI-and-Machine-Learning\lexer" />
       <recent name="E:\workspace\aaa\CN-AM-Repo\documentation\AI-and-Machine-Learning\Value-Added-Tax-Invoice-Recognize" />
       <recent name="E:\workspace\aaa\CN-AM-Repo\documentation\AI-and-Machine-Learning\Face-Search" />
       <recent name="E:\workspace\aaa\CN-AM-Repo\documentation\AI-and-Machine-Learning\Face-Search\API-Reference" />
       <recent name="E:\workspace\aaa\CN-AM-Repo\documentation\AI-and-Machine-Learning\Image-Antiporn-Recognize" />
-      <recent name="E:\workspace\aaa\CN-AM-Repo\documentation\AI-and-Machine-Learning\Specific-Subject-Face-Recognition\Pricing" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\workspace\aaa\CN-AM-Repo\documentation\AI-and-Machine-Learning\Face-Search\API-Reference" />
-      <recent name="E:\workspace\aaa\CN-AM-Repo\image\AI-and-Machine-Learning\Face-Compare" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -538,7 +461,8 @@
       <workItem from="1555392882538" duration="3362000" />
       <workItem from="1555676065447" duration="1297000" />
       <workItem from="1555765313987" duration="1341000" />
-      <workItem from="1555900476746" duration="36635000" />
+      <workItem from="1555900476746" duration="40974000" />
+      <workItem from="1556433510056" duration="7824000" />
     </task>
     <task id="LOCAL-00001" summary="通用文字识别api文档完成">
       <created>1554951317888</created>
@@ -701,11 +625,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556162390209</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="修改为“去掉appkey和sign”">
+      <created>1556163908112</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1556163908113</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105575000" />
+    <option name="totallyTimeSpent" value="117738000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -725,11 +656,11 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20911528" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1997319" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49932975" weight="0.32991204" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49731904" visible="true" weight="0.21554253" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50268096" side_tool="true" visible="true" weight="0.21554253" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4966488" visible="true" weight="0.22434017" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5033512" side_tool="true" visible="true" weight="0.22434017" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" sideWeight="0.47855228" weight="0.24926686" />
@@ -779,175 +710,10 @@
     <MESSAGE value="修改了“计费概述”" />
     <MESSAGE value="修改了“计费概述”和系统返回参数" />
     <MESSAGE value="修改为“产品概述”" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改为“产品概述”" />
+    <MESSAGE value="修改为“去掉appkey和sign”" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改为“去掉appkey和sign”" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Food-Recognition/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/General-Image-OCR/Introduction/Features.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/General-Image-OCR/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Identity-Card-Recognize/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Image-Antiporn-Recognize/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Human-Detection/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Pose-Estimation/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Selfie-Segmentation/Introduction/Features.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Selfie-Segmentation/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Sentiment-Classifier/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Snap-Shop/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Specific-Subject-Face-Recognition/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-to-Speech/Introduction/Product-Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/Introduction/Product-Overview.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -983,16 +749,6 @@
         <state split_layout="SPLIT">
           <first_editor>
             <caret column="7" selection-start-column="7" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/API-Reference/API-Reference.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2184">
-            <caret line="279" column="24" lean-forward="true" selection-start-line="279" selection-start-column="24" selection-end-line="279" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
@@ -1184,16 +940,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/API-Reference.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Pose-Estimation/API-Reference/API-Reference.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1224,16 +970,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/API-Reference/API-Reference.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Snap-Shop/API-Reference/API-Reference.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1257,7 +993,7 @@
     <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Syntactic-Parsing/API-Reference/API-Reference.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="250">
+          <first_editor relative-caret-position="925">
             <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
           </first_editor>
           <second_editor />
@@ -1267,7 +1003,7 @@
     <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-Categorization/API-Reference/API-Reference.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
+          <first_editor relative-caret-position="1975">
             <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
           </first_editor>
           <second_editor />
@@ -1277,8 +1013,193 @@
     <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Text-to-Speech/API-Reference/API-Reference.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
+          <first_editor relative-caret-position="1075">
             <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Value-Added-Tax-Invoice-Recognize/API-Reference/API-Reference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="825">
+            <caret line="33" selection-start-line="33" selection-end-line="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Vehicle-License-Recognize/API-Reference/API-Reference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="425">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Vehicle-License-Recognize/API-Reference/Error-Code.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/API-Reference/API-Reference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="825">
+            <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/Operation-Guide/Authentication.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="13" selection-start-column="13" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Short-Text-Similarity/API-Reference/Error-Code.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/API-Reference/API-Reference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="884">
+            <caret line="279" column="24" selection-start-line="279" selection-start-column="24" selection-end-line="279" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Introduction/Product-Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Pricing/Purchase-Process.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="100">
+            <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Pricing/Billing-Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Use-Sdk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Signature-Algorithm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Automatic-Speech-Recognition/Operation-Guide/Authentication.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="200">
+            <caret line="8" selection-start-line="8" selection-end-line="65" selection-end-column="75" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/Error-Code.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Authentication.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/API-Reference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="105" column="41" lean-forward="true" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/API-Reference/json.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Signature-Algorithm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-675" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/call-methods.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="127">
+            <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/AI-and-Machine-Learning/Lexical-Analysis/Operation-Guide/Use-Sdk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
