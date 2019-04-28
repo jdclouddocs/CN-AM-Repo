@@ -33,13 +33,7 @@ https `post` aiapi.jd.com/jdai/asr
 
 ### 3. 请求参数
 
-#### （1）query请求参数
-
-名称 | 类型 | 必填 | 示例值	| 描述
-------|------|-----|-----|-----
-sign | string | 是 | 2e148773a0337a8f2200ba90d445f083	 | 签名，根据规则MD5(sectetkey,timestamp)，
-
-#### （2）header请求参数  
+#### （1）header请求参数  
 
 - 示例：
 
@@ -156,6 +150,13 @@ sign | string | 是 | 2e148773a0337a8f2200ba90d445f083	 | 签名，根据规则M
     <td>{...}</td>
     <td>包含语音识别相关的请求参数(如果请求的音频不分包上传，请求时该参数必填；如果分包上传，则第一次请求必填，后边的请求可选)，例如采样率、音频格式等。此参数要在第一个请求包的时候传过来，即Sequence-Id为 1 或者 -1 (-1 表示一次语音识别请求只有一个http请求包的情况)</td>
   </tr>
+   <tr>
+      <td>Authorization</td>
+      <td>string</td>
+      <td>是</td>
+      <td>JDCLOUD2-HMAC-SHA256Credential=access...</td>
+      <td>签名</td>
+   </tr>
 </table>
 
 - Property参数
@@ -208,7 +209,7 @@ sign | string | 是 | 2e148773a0337a8f2200ba90d445f083	 | 签名，根据规则M
   </tr>
 </table>
 
-#### （3）body请求参数
+#### （2）body请求参数
 放置待识别的语音数据。数据可根据语音切分，按序上传，跟Header中Sequence-Id的顺序保持对应。
 
 ### 4. 请求代码示例

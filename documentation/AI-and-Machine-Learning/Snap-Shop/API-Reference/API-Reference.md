@@ -27,21 +27,16 @@ https://aiapi.jd.com/jdai/snapshop
 ### 2. 请求方式：  
 https `post` aiapi.jd.com/jdai/snapshop
 ### 3. 请求参数    
-#### （1）query请求参数  
-公共请求参数  
 
-名称 | 类型 | 必填 | 示例值  | 描述
-------|------|-----|-----|-----
-sign | String | 是 | 2e148773a0337a8f2200ba90d445f083     | 签名，根据规则MD5(sectetkey,timestamp)， 
-
-#### （2）header请求参数
+#### （1）header请求参数
 业务请求参数
 
 名称 | 类型 | 必填 | 示例值 | 描述
 ------|-----|-----|-----|-----
 Content-Type | String | 是 | text/plain | 标准编码格式
+Authorization | String | 是 | JDCLOUD2-HMAC-SHA256Credential=access... | 签名
 
-#### （3）body请求参数
+#### （2）body请求参数
 业务请求参数 
 
 >首次请求参数

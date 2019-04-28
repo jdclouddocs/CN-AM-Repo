@@ -30,9 +30,8 @@ https://aiapi.jd.com/jdai/FoodApi
 ### 2. 请求方式：  
 https `post` aiapi.jd.com/jdai/FoodApi
 
-### 3. 请求参数  
-#### （1）query请求参数  
-公共请求参数
+#### （1）header请求参数
+业务请求参数
 <table>
    <tr>
       <th>名称</th>
@@ -42,14 +41,13 @@ https `post` aiapi.jd.com/jdai/FoodApi
       <th>描述</th>
    </tr>
    <tr>
-      <td>sign</td>
+      <td>Authorization</td>
       <td>string</td>
       <td>是</td>
-      <td>2e148773a0337a8f2200ba90d445f083</td>
-      <td>签名，根据规则MD5(sectetkey,timestamp)</td>
+      <td>JDCLOUD2-HMAC-SHA256Credential=access...</td>
+      <td>签名</td>
    </tr>
 </table>
-
 
 
 #### （2）body请求参数
@@ -71,7 +69,7 @@ https `post` aiapi.jd.com/jdai/FoodApi
    </tr>
 </table>
 
-### 4、请求代码示例
+### 3、请求代码示例
 建议您使用我们提供的SDK进行调用，SDK获取及调用方式详见本页一接口描述中的4接口使用。
 
 

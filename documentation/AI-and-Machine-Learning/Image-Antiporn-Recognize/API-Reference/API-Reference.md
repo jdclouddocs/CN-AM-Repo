@@ -25,31 +25,7 @@
 在获得使用权限后，您可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html)  。
 ## 二、请求说明 ##
 
-公共请求参数
-<table>
-   <tr>
-      <th>名称</th>
-      <th>类型</th>
-      <th>必填</th>
-      <th>示例值</th>
-      <th>描述</th>
-   </tr>
-   <tr>
-      <td>sign</td>
-      <td>string</td>
-      <td>是</td>
-      <td>2e148773a0337a8f2200ba90d445f083</td>
-      <td>签名，根据规则MD5(sectetkey,timestamp)</td>
-   </tr>
-</table>
-
 ### 1.GET请求方式 ###
-
-query参数
-
-名称 | 类型 | 必填 | 示例值	| 描述
-------|------|-----|-----|-----
-image_url | String | 是 | 略 | 图片完整url
 
 header参数
 
@@ -57,7 +33,7 @@ header参数
 ------|------|-----|-----|-----
 request url | String | 是 | http://aiapi.jd.com/jdai/cvImage | 请求地址
 request method | String | 是 | GET | 请求方法
-
+Authorization | String | 是 | JDCLOUD2-HMAC-SHA256Credential=access... | 签名
 
 ### 2.POST请求方式
 header参数
@@ -67,6 +43,8 @@ header参数
 request url | String  | 是 | http://aiapi.jd.com/jdai/localCvImage | 请求地址
 request method | String | 是 | POST | 请求方法
 content type | String | 否 | application/octet-stream ,text/plain ... | 二进制流，文件类型..
+Authorization | String | 是 | JDCLOUD2-HMAC-SHA256Credential=access... | 签名
+
 
 body参数
 

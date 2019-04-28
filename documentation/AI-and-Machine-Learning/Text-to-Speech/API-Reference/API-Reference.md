@@ -32,26 +32,8 @@ https://aiapi.jd.com/jdai/tts
 https `post` aiapi.jd.com/jdai/tts
 
 ### 3. 请求参数  
-#### （1）query请求参数  
-公共请求参数
-<table>
-   <tr>
-      <th>名称</th>
-      <th>类型</th>
-      <th>必填</th>
-      <th>示例值</th>
-      <th>描述</th>
-   </tr>
-   <tr>
-      <td>sign</td>
-      <td>string</td>
-      <td>是</td>
-      <td>2e148773a0337a8f2200ba90d445f083</td>
-      <td>签名，根据规则MD5(sectetkey,timestamp)</td>
-   </tr>
-</table>
 
-#### （2）header请求参数
+#### （1）header请求参数
 业务请求参数
 <table>
    <tr>
@@ -115,6 +97,13 @@ https `post` aiapi.jd.com/jdai/tts
     <td>{"platform": "Linux", "version": "0.0.0.1", "parameters": {"aue": "1", "vol": "2.0", "sr": "24000", "sp": "1.0", "tim": "0", "tte": "1"}}</td>
     <td>属性信息，json格式，platform和version为通用属性，parameters字段必填，其中的参数可选，Property允许用户同一个请求的不同包都携带该头，但是建议只在第一包携带</td>
   </tr>
+   <tr>
+      <td>Authorization</td>
+      <td>string</td>
+      <td>是</td>
+      <td>JDCLOUD2-HMAC-SHA256Credential=access...</td>
+      <td>签名</td>
+   </tr>
 </table>
 
 - Property参数

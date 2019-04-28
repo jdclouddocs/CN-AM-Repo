@@ -29,8 +29,8 @@ https `post` aiapi.jd.com/jdai/faceGroupCreate
 
 ### 3. 请求参数  
  
-#### （1）query请求参数  
-公共请求参数  
+#### （1）header请求参数
+业务请求参数
 <table>
    <tr>
       <th>名称</th>
@@ -40,11 +40,11 @@ https `post` aiapi.jd.com/jdai/faceGroupCreate
       <th>描述</th>
    </tr>
    <tr>
-      <td>sign</td>
+      <td>Authorization</td>
       <td>string</td>
       <td>是</td>
-      <td>2e148773a0337a8f2200ba90d445f083</td>
-      <td>签名，根据规则MD5(sectetkey,timestamp)</td>
+      <td>JDCLOUD2-HMAC-SHA256Credential=access...</td>
+      <td>签名</td>
    </tr>
 </table>
 

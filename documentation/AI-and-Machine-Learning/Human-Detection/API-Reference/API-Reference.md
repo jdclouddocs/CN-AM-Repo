@@ -33,27 +33,10 @@ https://aiapi.jd.com/jdai/human_detect
 https `post` aiapi.jd.com/jdai/human_detect
 
 ### 3. 请求参数  
- 
-#### （1）query请求参数  
-公共请求参数  
-<table>
-   <tr>
-      <th>名称</th>
-      <th>类型</th>
-      <th>必填</th>
-      <th>示例值</th>
-      <th>描述</th>
-   </tr>
-   <tr>
-      <td>sign</td>
-      <td>string</td>
-      <td>是</td>
-      <td>2e148773a0337a8f2200ba90d445f083</td>
-      <td>签名，根据规则MD5(sectetkey,timestamp)</td>
-   </tr>
-</table>
 
-#### （2）header请求参数
+
+
+#### （1）header请求参数
 业务请求参数
 <table>
    <tr>
@@ -64,15 +47,15 @@ https `post` aiapi.jd.com/jdai/human_detect
       <th>描述</th>
    </tr>
    <tr>
-      <td>Content-Type</td>
+      <td>Authorization</td>
       <td>string</td>
       <td>是</td>
-      <td>application/octet-stream</td>
-      <td>表示在发送到服务器之前，所有字符都会进行编码。</td>
+      <td>JDCLOUD2-HMAC-SHA256Credential=access...</td>
+      <td>签名</td>
    </tr>
 </table>
 
-#### （3）body请求参数
+#### （2）body请求参数
 业务请求参数
 <table>
    <tr>

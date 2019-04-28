@@ -26,26 +26,9 @@ https `post` aiapi.jd.com/jdai/lexer
 
 ### 3. 请求参数  
  
-#### （1）query请求参数  
-公共请求参数
-<table>
-   <tr>
-      <th>名称</th>
-      <th>类型</th>
-      <th>必填</th>
-      <th>示例值</th>
-      <th>描述</th>
-   </tr>
-   <tr>
-      <td>sign</td>
-      <td>string</td>
-      <td>是</td>
-      <td>2e148773a0337a8f2200ba90d445f083</td>
-      <td>签名，根据规则MD5(sectetkey,timestamp)</td>
-   </tr>
-</table>
 
-#### （2）header请求参数
+
+#### （1）header请求参数
 业务请求参数
 <table>
    <tr>
@@ -56,15 +39,15 @@ https `post` aiapi.jd.com/jdai/lexer
       <th>描述</th>
    </tr>
    <tr>
-      <td>Content-Type</td>
+      <td>Authorization</td>
       <td>string</td>
       <td>是</td>
-      <td>application/json</td>
-      <td>表示请求JSON格式的文本信息</td>
+      <td>JDCLOUD2-HMAC-SHA256Credential=access...</td>
+      <td>签名</td>
    </tr>
 </table>
 
-#### （3）body请求参数
+#### （2）body请求参数
 业务请求参数
 <table>
    <tr>
@@ -210,25 +193,25 @@ https `post` aiapi.jd.com/jdai/lexer
      <td>x-jdcloud-request-id</td>
      <td>string</td>
      <td>bj05f0a...</td>
-     <td></td>
+     <td>请求的id</td>
    </tr>
    <tr>
      <td>x-jdcloud-upstream-latency</td>
      <td>string</td>
      <td>123</td>
-     <td></td>
+     <td>上行流的延迟</td>
    </tr>
    <tr>
      <td>x-jdcloud-proxy-latency</td>
      <td>string</td>
      <td>92</td>
-     <td></td>
+     <td>代理延迟</td>
    </tr>
    <tr>
      <td>via</td>
      <td>string</td>
      <td>jd-gateway/1.0.1</td>
-     <td></td>
+     <td>经过的网关</td>
    </tr>
 </table>
 
