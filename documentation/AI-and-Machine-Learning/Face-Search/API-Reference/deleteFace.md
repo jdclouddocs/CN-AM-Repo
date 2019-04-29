@@ -82,7 +82,7 @@ https `post` aiapi.jd.com/jdai/faceGroupDelete
 </table>
 
 ### 4、请求代码示例
-建议您使用我们提供的SDK进行调用，SDK获取及调用方式详见本页一接口描述中的2接口使用。
+建议您使用我们提供的SDK进行调用，SDK获取及调用方式详见[sdk的使用方法](未发布)
  
 ## 返回说明
 

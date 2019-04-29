@@ -30,6 +30,7 @@ https://aiapi.jd.com/jdai/FoodApi
 ### 2. 请求方式：  
 https `post` aiapi.jd.com/jdai/FoodApi
 
+### 3. 请求参数 
 #### （1）header请求参数
 业务请求参数
 <table>
@@ -69,8 +70,8 @@ https `post` aiapi.jd.com/jdai/FoodApi
    </tr>
 </table>
 
-### 3、请求代码示例
-建议您使用我们提供的SDK进行调用，SDK获取及调用方式详见本页一接口描述中的4接口使用。
+### 4、请求代码示例
+建议您使用我们提供的SDK进行调用，SDK获取及调用方式详见[sdk的使用方法](未发布)
 
 
 
