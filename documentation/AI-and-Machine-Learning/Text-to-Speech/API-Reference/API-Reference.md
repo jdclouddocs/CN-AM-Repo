@@ -11,15 +11,7 @@
 
 公测期间用户可以免费（0元）进行测试，根据[购买流程](http://neuhub.jd.com/ai/api/nlp/classification)下单后，即可开始体验业内领先的人工智能API服务。公测期间服务具有调用量、QPS限制，如需更高性能的API服务，请联系客服扩容购买。
 
-
 在获得使用权限后，您可使用已经封装好的SDK/参照[接口鉴权](https://aidoc.jd.com/user/auth.html)规则进行相应开发，整体流程详见   [接入流程](https://aidoc.jd.com/user/flow.html) 。
-
-### 4. Android/IOS开发
-为了方便Android和IOS集成该API，我们提供了对应的SDK供开发者使用，请到下面的链接下载和使用：
-* [Android SDK](https://aidoc.jd.com/speech/JDTTS_Speech_Android.html)
-* [IOS SDK](https://aidoc.jd.com/speech/JDTTS_Speech_iOS.html)
-
-**（注意：使用SDK开发仍然需要开通第3步中的API服务权限）**
 
 ## 二、请求说明
 ### 1. 接口地址 ：
@@ -203,7 +195,7 @@ https `post` aiapi.jd.com/jdai/tts
   </tr>
 </table>
 
-#### （3）body请求参数
+#### （2）body请求参数
 业务请求参数
 <table>
    <tr>

@@ -1,9 +1,9 @@
 # **sdk的使用方法**
 
-##获取说明 
+## 获取说明 
 根据[购买流程](未填超链接)，0元购买“情感分析”产品后，再次进入京东云“情感分析”控制台页面，点击[“下载SDK”](https://jdai.oss.cn-north-1.jcloudcs.com/aisdk/sdk/java.zip)，进入API调试页面下载SDK。
 
-##调用方式
+## 调用方式
 
 ## java示例代码
 ```$xslt
