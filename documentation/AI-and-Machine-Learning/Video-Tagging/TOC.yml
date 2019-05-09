@@ -32,7 +32,7 @@ items:
     - name: 区块链 
       href: Operation-Guide/hyperledger.md
     - name: 集群 
-      href: Operation-Guide/cluster-management.md      
+      href: Operation-Guide/Authentication.md
 - name: 开发指南 
   items:
     - name: 一键部署 
