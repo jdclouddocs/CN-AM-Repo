@@ -23,11 +23,11 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/pose_estimation
+https://aiapi.jdcloud.com/jdai/pose_estimation
 ```
 
 ### 2. 请求方式：  
-https `post` aiapi.jd.com/jdai/pose_estimation
+https `post` aiapi.jdcloud.com/jdai/pose_estimation
 
 ### 3. 请求参数  
 #### （1）query请求参数  

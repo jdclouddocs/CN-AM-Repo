@@ -20,10 +20,10 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/ocr_bankcard
+https://aiapi.jdcloud.com/jdai/ocr_bankcard
 ```
 ### 2. 请求方式：  
-https  `post`aiapi.jd.com/jdai/ocr_bankcard
+https  `post`aiapi.jdcloud.com/jdai/ocr_bankcard
 ### 3. 请求参数    
 
 #### （1）header请求参数

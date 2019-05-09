@@ -25,12 +25,12 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/face_detect_attr
+https://aiapi.jdcloud.com/jdai/face_detect_attr
 ```
 
 ### 2. 请求方式：
   
-https `post` aiapi.jd.com/jdai/face_detect_attr
+https `post` aiapi.jdcloud.com/jdai/face_detect_attr
 
 ### 3. 请求参数  
  

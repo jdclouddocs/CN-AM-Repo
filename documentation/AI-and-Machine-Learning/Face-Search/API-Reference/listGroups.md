@@ -19,12 +19,12 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/getFaceGroupList
+https://aiapi.jdcloud.com/jdai/getFaceGroupList
 ```
 
 ### 2. 请求方式：
   
-https `post` aiapi.jd.com/jdai/getFaceGroupList
+https `post` aiapi.jdcloud.com/jdai/getFaceGroupList
 
 ### 3. 请求参数  
  

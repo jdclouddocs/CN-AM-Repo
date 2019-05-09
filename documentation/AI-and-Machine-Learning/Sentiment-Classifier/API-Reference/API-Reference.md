@@ -18,12 +18,12 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/sentiment
+https://aiapi.jdcloud.com/jdai/sentiment
 ```
 
 ### 2. 请求方式：
   
-https `post` aiapi.jd.com/jdai/sentiment
+https `post` aiapi.jdcloud.com/jdai/sentiment
 
 ### 3. 请求参数  
 
@@ -227,12 +227,12 @@ https `post` aiapi.jd.com/jdai/sentiment
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/sentimentV2
+https://aiapi.jdcloud.com/jdai/sentimentV2
 ```
 
 ### 2. 请求方式：
   
-https `post` aiapi.jd.com/jdai/sentimentV2
+https `post` aiapi.jdcloud.com/jdai/sentimentV2
 
 ### 3. 请求参数  
  
@@ -561,12 +561,12 @@ https `post` aiapi.jd.com/jdai/sentimentV2
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/sentimentSeries
+https://aiapi.jdcloud.com/jdai/sentimentSeries
 ```
 
 ### 2. 请求方式：
   
-https `post` aiapi.jd.com/jdai/sentimentSeries
+https `post` aiapi.jdcloud.com/jdai/sentimentSeries
 
 ### 3. 请求参数  
  

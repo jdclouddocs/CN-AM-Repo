@@ -24,11 +24,11 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/SelfieSeg
+https://aiapi.jdcloud.com/jdai/SelfieSeg
 ```
 
 ### 2. 请求方式：  
-https `post` aiapi.jd.com/jdai/SelfieSeg
+https `post` aiapi.jdcloud.com/jdai/SelfieSeg
 
 ### 3. 请求参数  
 

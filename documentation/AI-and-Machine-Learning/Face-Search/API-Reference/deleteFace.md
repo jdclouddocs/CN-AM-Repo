@@ -20,12 +20,12 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/faceGroupDelete
+https://aiapi.jdcloud.com/jdai/faceGroupDelete
 ```
 
 ### 2. 请求方式：
   
-https `post` aiapi.jd.com/jdai/faceGroupDelete
+https `post` aiapi.jdcloud.com/jdai/faceGroupDelete
 
 ### 3. 请求参数  
  

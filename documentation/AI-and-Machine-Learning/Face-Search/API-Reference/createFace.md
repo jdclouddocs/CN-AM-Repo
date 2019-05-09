@@ -25,12 +25,12 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/faceCreate
+https://aiapi.jdcloud.com/jdai/faceCreate
 ```
 
 ### 2. 请求方式：
   
-https `post` aiapi.jd.com/jdai/faceCreate
+https `post` aiapi.jdcloud.com/jdai/faceCreate
 
 ### 3. 请求参数  
  

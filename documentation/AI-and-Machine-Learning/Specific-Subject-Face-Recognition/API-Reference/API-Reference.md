@@ -23,7 +23,7 @@
 http://192.168.0.162:8080/PoliticiansRecognition
 ```
 ### 2. 请求方式：  
-https  `post`aiapi.jd.com/jdai/PoliticiansRecognition
+https  `post`aiapi.jdcloud.com/jdai/PoliticiansRecognition
 ### 3. 请求参数    
 
 #### （1）header请求参数

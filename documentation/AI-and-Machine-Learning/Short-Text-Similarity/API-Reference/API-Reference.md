@@ -15,10 +15,10 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/similarity
+https://aiapi.jdcloud.com/jdai/similarity
 ```
 ### 2. 请求方式：  
-https `get/post` aiapi.jd.com/jdai/similarity
+https `get/post` aiapi.jdcloud.com/jdai/similarity
 
 ### 3. 请求参数  
 

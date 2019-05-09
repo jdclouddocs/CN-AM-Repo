@@ -24,13 +24,13 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/human_detect
+https://aiapi.jdcloud.com/jdai/human_detect
 未上线时地址：http://192.168.0.135:8000/human_detect
 ```
 
 ### 2. 请求方式：
   
-https `post` aiapi.jd.com/jdai/human_detect
+https `post` aiapi.jdcloud.com/jdai/human_detect
 
 ### 3. 请求参数  
 

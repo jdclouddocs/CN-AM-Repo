@@ -17,11 +17,11 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/tts
+https://aiapi.jdcloud.com/jdai/tts
 ```
 
 ### 2. 请求方式：  
-https `post` aiapi.jd.com/jdai/tts
+https `post` aiapi.jdcloud.com/jdai/tts
 
 ### 3. 请求参数  
 

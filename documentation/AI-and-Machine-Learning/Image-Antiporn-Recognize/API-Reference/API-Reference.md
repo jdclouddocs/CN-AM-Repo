@@ -31,7 +31,7 @@ header参数
 
 名称 | 类型 | 必填 | 示例值	| 描述
 ------|------|-----|-----|-----
-request url | String | 是 | http://aiapi.jd.com/jdai/cvImage | 请求地址
+request url | String | 是 | http://aiapi.jdcloud.com/jdai/cvImage | 请求地址
 request method | String | 是 | GET | 请求方法
 Authorization | String | 是 | JDCLOUD2-HMAC-SHA256Credential=access... | 签名
 
@@ -40,7 +40,7 @@ header参数
 
 名称 | 类型 | 必填 | 示例值	| 描述
 ------|------|-----|-----|-----
-request url | String  | 是 | http://aiapi.jd.com/jdai/localCvImage | 请求地址
+request url | String  | 是 | http://aiapi.jdcloud.com/jdai/localCvImage | 请求地址
 request method | String | 是 | POST | 请求方法
 content type | String | 否 | application/octet-stream ,text/plain ... | 二进制流，文件类型..
 Authorization | String | 是 | JDCLOUD2-HMAC-SHA256Credential=access... | 签名

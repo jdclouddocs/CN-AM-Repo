@@ -21,11 +21,11 @@
 ### 1. 接口地址 ：
 
 ```
-https://aiapi.jd.com/jdai/snapshop
+https://aiapi.jdcloud.com/jdai/snapshop
 ```
 
 ### 2. 请求方式：  
-https `post` aiapi.jd.com/jdai/snapshop
+https `post` aiapi.jdcloud.com/jdai/snapshop
 ### 3. 请求参数    
 
 #### （1）header请求参数
